@@ -1,0 +1,30 @@
+
+#intro{
+  background: linear-gradient(rgba(77, 136, 230, 0.9), rgba(42, 62, 80, 0.7)), url("http://192.168.16.199/images/comp-service/Printer.jpg") 0% 0%/cover no-repeat
+}
+
+.fill-vport{
+	min-height: 100vh 
+}
+
+.fill-80-view{
+	min-height: 80vh 
+}
+
+.center-vert{
+	display: flex;
+	align-items: center;
+}
+
+.text-white-40{
+	color: rgba(255,255,255, 0.4);
+}
+.text-white-70{
+	color: rgba(255,255,255, 0.7);
+}
+.text-black-40{
+	color: rgba(0, 0, 0, 0.4);	
+}
+.text-black-70{
+	color: rgba(0, 0, 0, 0.7);	
+}
