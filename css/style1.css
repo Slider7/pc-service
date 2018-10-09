@@ -1,6 +1,6 @@
 
 #intro{
-  background: linear-gradient(rgba(77, 136, 230, 0.9), rgba(42, 62, 80, 0.7)), url("http://192.168.16.199/images/comp-service/Printer.jpg") 0% 0%/cover no-repeat
+  background: linear-gradient(rgba(77, 136, 230, 0.9), rgba(42, 62, 80, 0.7)), url("../img/Printer.jpg") no-repeat center center fixed; 
 }
 
 .fill-vport{
